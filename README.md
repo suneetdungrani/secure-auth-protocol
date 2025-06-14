@@ -73,13 +73,6 @@ docker run -it secure-auth-protocol
 - **Cryptography**: Python cryptography library
 - **Containerization**: Docker
 
-## Academic Significance
-
-This project demonstrates competency in:
-- Formal methods and mathematical reasoning
-- Security protocol design and analysis
-- State-space verification techniques
-- Applied discrete mathematics and temporal logic
 
 ## License
 
